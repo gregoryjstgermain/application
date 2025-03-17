@@ -2,3 +2,4 @@ This is fileB
 Let's make a change
 Lets make another change
 One more change
+This for squash merge
